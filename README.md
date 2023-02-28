@@ -1,6 +1,6 @@
 ### Оригінальні данні VEF-202:
 
-[![Посібник з експлуатації](https://img.shields.io/badge/Посібник_з_експлуатації-white.svg )](https://github.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/blob/main/IMG_20230224_120251051.png)
+[![Посібник з експлуатації](https://img.shields.io/badge/Посібник%20з%20експлуатації-white.svg )](https://github.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/blob/main/IMG_20230224_120251051.png)
 
 [![Схема 1973](https://img.shields.io/badge/Схема_1973-red.svg )](https://photos.app.goo.gl/CqrGVYvCyfwQHxev7)
 
@@ -17,10 +17,10 @@
 
 Відновлення плати ПЧ, НЧ. 
 
-<img src="https://github.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/blob/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate01.jpg" width="400">
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate01.jpg" width="400">
 
-<img src="https://github.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/blob/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate02.jpg" width="400">
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate02.jpg" width="400">
 
-<img src="https://github.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/blob/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate03.jpg" width="400">
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate03.jpg" width="400">
 
 <https://mrspudnik.blogspot.com>
