@@ -15,5 +15,12 @@
 
 ### VEF-202 mod by Al Spudnik
 
+Відновлення плати ПЧ, НЧ. 
+
+<img src="https://github.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/blob/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate01.jpg" width="400">
+
+<img src="https://github.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/blob/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate02.jpg" width="400">
+
+<img src="https://github.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/blob/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate03.jpg" width="400">
 
 <https://mrspudnik.blogspot.com>
