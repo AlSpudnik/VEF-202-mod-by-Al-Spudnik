@@ -10,7 +10,7 @@
 
 [![Налаштування ПЧ](https://img.shields.io/badge/Налаштування_ПЧ-orange.svg )](https://github.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/blob/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/%D0%86%D0%BD%D1%84%D0%BE_%D0%BF%D0%BE_%D0%9F%D0%A7.md)
 
-[![Трансформатори](https://img.shields.io/badge/Трансформатори-green.svg )](https://photos.app.goo.gl/AWSZ3xRsBbch4FGx8)
+[![Трансформатори]("https://img.shields.io/badge/Трансформатори-green.svg" )](https://photos.app.goo.gl/AWSZ3xRsBbch4FGx8)
 
 
 ### VEF-202 mod by Al Spudnik
