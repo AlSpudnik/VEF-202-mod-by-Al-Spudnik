@@ -5,10 +5,6 @@
 
 [![Таблиця катушок](https://img.shields.io/badge/Таблиця_катушок-blue.svg )](https://photos.app.goo.gl/kkhYgLVB2DS3a5Cb8)
 
+<https://photos.app.goo.gl/kkhYgLVB2DS3a5Cb8>
+ 
 
-Author: Josh Goebel <https://photos.app.goo.gl/kkhYgLVB2DS3a5Cb8>
-
-
-    test for current head
-
-    Signed-off-by: Scott Chacon <schacon@example.com>
