@@ -1,4 +1,4 @@
-### Оригінальні данні VEF-202:
+### Оригінальні данні VEF 202:
 
 [![Посібник з експлуатації](https://img.shields.io/badge/Посібник%20з%20експлуатації-white.svg )](https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/IMG_20230224_120251051.png)
 
@@ -13,7 +13,7 @@
 [![Трансформатори](https://img.shields.io/badge/Трансформатори-green.svg )](https://photos.app.goo.gl/AWSZ3xRsBbch4FGx8)
 
 
-### VEF-202 mod by Al Spudnik
+### VEF 202 mod by Al Spudnik
 
 Відновлення плати ПЧ, НЧ. 
 
