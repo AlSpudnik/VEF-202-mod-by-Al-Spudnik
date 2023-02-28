@@ -1,5 +1,7 @@
 ### Оригінальні данні VEF-202:
 
+[![Посібник з експлуатації](https://img.shields.io/badge/Посібник_з_експлуатації-white.svg )](https://photos.app.goo.gl/CqrGVYvCyfwQHxev7)
+
 [![Схема 1973](https://img.shields.io/badge/Схема_1973-red.svg )](https://photos.app.goo.gl/CqrGVYvCyfwQHxev7)
 
 [![Layout IF, Power Amp](https://img.shields.io/badge/Layout-IF,_Power_Amp-orange.svg )](https://photos.app.goo.gl/CqrGVYvCyfwQHxev7)
