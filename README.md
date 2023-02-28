@@ -1,6 +1,6 @@
 ### Оригінальні данні VEF-202:
 
-[![Посібник з експлуатації](https://img.shields.io/badge/Посібник_з_експлуатації-white.svg )]("https://2.bp.blogspot.com/-S2t0P56NnEs/WilvobbiwlI/AAAAAAAADwo/oanxuJ2ZxGoqgR2dK0nlrI3op2SYcNIFACLcBGAs/IMG_20171016_102253.jpg")
+[![Посібник з експлуатації](https://img.shields.io/badge/Посібник_з_експлуатації-white.svg )](https://github.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/blob/main/IMG_20230224_120251051.png)
 
 [![Схема 1973](https://img.shields.io/badge/Схема_1973-red.svg )](https://photos.app.goo.gl/CqrGVYvCyfwQHxev7)
 
