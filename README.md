@@ -23,8 +23,6 @@
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate03.jpg" width="400">
 
-<https://mrspudnik.blogspot.com>
-
 Обмотки трансформаторів збільшені.
 - Тр.1:
 - 1-2 = 1570 витків
@@ -34,3 +32,6 @@
 - 1,6-2,7 = два шари по 128 витків
 - 3-4 = 400 витків
 - 4-5 = 400 витків
+
+
+<https://mrspudnik.blogspot.com>
