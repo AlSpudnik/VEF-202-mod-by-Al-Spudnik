@@ -2,7 +2,7 @@
 
 [![Посібник з експлуатації](https://img.shields.io/badge/Посібник%20з%20експлуатації-white.svg )](https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/IMG_20230224_120251051.png)
 
-[![Схема 1973](https://img.shields.io/badge/Схема_1973-red.svg )](https://photos.app.goo.gl/CqrGVYvCyfwQHxev7)
+[![Схема 1973](https://img.shields.io/badge/Схема_1973-red.svg )](https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/vef202original_scheme.png)
 
 [![Layout IF, Power Amp](https://img.shields.io/badge/Layout-IF,_Power_Amp-orange.svg )](https://photos.app.goo.gl/CqrGVYvCyfwQHxev7)
 
