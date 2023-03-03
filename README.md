@@ -4,7 +4,7 @@
 
 [![Схема 1973](https://img.shields.io/badge/Схема_1973-red.svg )](https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/vef202original_scheme.png)
 
-[![Layout IF, Power Amp](https://img.shields.io/badge/Layout-IF,_Power_Amp-orange.svg )](https://photos.app.goo.gl/CqrGVYvCyfwQHxev7)
+[![Layout IF, Power Amp](https://img.shields.io/badge/Layout-IF,_Power_Amp-orange.svg )](https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/vef_layout.jpg)
 
 [![Таблиця катушок](https://img.shields.io/badge/Таблиця_катушок-blue.svg )](https://photos.app.goo.gl/kkhYgLVB2DS3a5Cb8)
 
