@@ -23,6 +23,8 @@
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate03.jpg" width="400">
 
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate04.jpg" width="400">
+
 Обмотки трансформаторів збільшені.
 - Тр.1:
 - 1-2 = 1570 витків
