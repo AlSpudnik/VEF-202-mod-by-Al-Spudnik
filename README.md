@@ -39,8 +39,8 @@
 Покрокове складання:
 
 [![Фото_01](https://img.shields.io/badge/Фото_01-orange.svg )](https://photos.app.goo.gl/Qsyrgdiz5srEuc9z5)
-[![Фото_02](https://img.shields.io/badge/Фото_01-orange.svg )](https://photos.app.goo.gl/BiwBtk2LWMFu1j3d8)
-[![Фото_03](https://img.shields.io/badge/Фото_01-orange.svg )](https://photos.app.goo.gl/8HEDBvSvjd3StXME8)
-[![Фото_04](https://img.shields.io/badge/Фото_01-orange.svg )](https://photos.app.goo.gl/XQyDcrhQZX6n9Rkq8)
+[![Фото_02](https://img.shields.io/badge/Фото_02-orange.svg )](https://photos.app.goo.gl/BiwBtk2LWMFu1j3d8)
+[![Фото_03](https://img.shields.io/badge/Фото_03-orange.svg )](https://photos.app.goo.gl/8HEDBvSvjd3StXME8)
+[![Фото_04](https://img.shields.io/badge/Фото_04-orange.svg )](https://photos.app.goo.gl/XQyDcrhQZX6n9Rkq8)
 
 <https://mrspudnik.blogspot.com>
