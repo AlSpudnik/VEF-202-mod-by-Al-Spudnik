@@ -38,6 +38,6 @@
 
 Покрокове складання:
 
-[![Фото 01](https://img.shields.io/badge/Фото 01-orange.svg )](https://photos.app.goo.gl/Qsyrgdiz5srEuc9z5)
+[![Фото_01](https://img.shields.io/badge/Фото_01-orange.svg )](https://photos.app.goo.gl/Qsyrgdiz5srEuc9z5)
 
 <https://mrspudnik.blogspot.com>
