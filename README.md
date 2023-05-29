@@ -15,6 +15,10 @@
 
 ### VEF 202 mod by Al Spudnik
 
+[![Модифікована_схема_від_Al_Spudnik](https://img.shields.io/badge/Модифікована_схема_від_Al_Spudnik.svg )](https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-
+
+VEF_schem_by_Spudnik.png
+
 Відновлення плати ПЧ, НЧ. 
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate01.jpg" width="400">
