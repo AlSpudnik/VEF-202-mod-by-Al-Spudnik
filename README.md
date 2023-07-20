@@ -47,9 +47,11 @@
 [![Фото_05](https://img.shields.io/badge/Фото_05-orange.svg )](https://photos.app.goo.gl/BHtVywNG1vEjoxku8)
 [![Фото_06](https://img.shields.io/badge/Фото_06-orange.svg )](https://photos.app.goo.gl/dbPZVMjhA3gZBZEZ6)
 
-Ноніусний механізм.
-[![Фото_07](https://img.shields.io/badge/Фото_07-orange.svg )](https://photos.app.goo.gl/DHTExDxR6r9ZCoDA7)
+Ноніусний механізм:
 
-[![Фото_09](https://img.shields.io/badge/Фото_09-orange.svg )](https://photos.app.goo.gl/bqRQdsnj2Sa8EDQr7)
+[![Фото_07](https://img.shields.io/badge/Фото_07-orange.svg )](https://photos.app.goo.gl/DHTExDxR6r9ZCoDA7)
+[![Фото_08](https://img.shields.io/badge/Фото_08-orange.svg )](https://photos.app.goo.gl/mVqMcmjk9g773mbN6)
+[![Фото_09](https://img.shields.io/badge/Фото_09-orange.svg )](https://photos.app.goo.gl/iMKKS7KNYM4rKzsA6)
+[![Фото_10](https://img.shields.io/badge/Фото_10-orange.svg )](https://photos.app.goo.gl/bqRQdsnj2Sa8EDQr7)
 
 <https://mrspudnik.blogspot.com>
