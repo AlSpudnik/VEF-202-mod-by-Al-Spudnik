@@ -38,6 +38,14 @@
 - 4-5 = 400 витків
 - 6-7 = 128 витків
 
+ЧМ (FM) плата:
+
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/FM Board/FMboard.jpg" width="400">
+
+Звільнити 13-ий контакт на ДX (LW) та СХ (MW) платах:
+
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/FM Board/MWboard.jpg" width="400">
+
 Покрокове складання:
 
 [![Фото_01](https://img.shields.io/badge/Фото_01-orange.svg )](https://photos.app.goo.gl/Qsyrgdiz5srEuc9z5)
