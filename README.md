@@ -54,6 +54,10 @@
 
 - Електронний вимикач освітлення шкали та живлення ЧМ (FM) плати:
 
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/electric_keys/repair11.jpg" width="400">
+
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/electric_keys/repair12.jpg" width="400">
+
 [![Фото_10](https://img.shields.io/badge/Фото_10-orange.svg )](https://photos.app.goo.gl/bqRQdsnj2Sa8EDQr7)
 
 <https://mrspudnik.blogspot.com>
