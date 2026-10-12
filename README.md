@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/IMG_20261002_144313254.jpg" width="200">
+
 ### Оригінальні данні VEF 202:
 
 [![Посібник з експлуатації](https://img.shields.io/badge/Ctrl_+_клік_мишкою-Посібник%20з%20експлуатації-white.svg )](https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/IMG_20230224_120251051.png)
