@@ -44,7 +44,7 @@
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/FM Board/FMboard.jpg" width="400">
 
-Звільнити 13-ий контакт на ДX (LW) та СХ (MW) платах:
+Звільнити 13-ий контакт на ДX (LW) та СХ (MW) платах для аудіовиходу ЧМ модуля:
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/FM Board/MWboard.jpg" width="400">
 
@@ -68,6 +68,8 @@
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/electric_keys/repair12.jpg" width="400">
 
-[![Фото_10](https://img.shields.io/badge/Фото_10-orange.svg )](https://photos.app.goo.gl/bqRQdsnj2Sa8EDQr7)
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair10.jpg" width="400">
+
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/IMG_20261002_144321573.jpg" width="400">
 
 <https://mrspudnik.blogspot.com>
