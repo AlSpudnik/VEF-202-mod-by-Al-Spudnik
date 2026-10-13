@@ -12,7 +12,7 @@
 
 [![Налаштування ПЧ](https://img.shields.io/badge/Ctrl_+_клік_мишкою-Налаштування_ПЧ-orange.svg )](https://github.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/blob/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/%D0%86%D0%BD%D1%84%D0%BE_%D0%BF%D0%BE_%D0%9F%D0%A7.md)
 
-[![Трансформатори](https://img.shields.io/badge/Ctrl_+_клік_мишкою-Трансформатори-green.svg )](https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/Плата_ПЧ/vef_transformer.png)
+[![Трансформатори](https://img.shields.io/badge/Ctrl_+_клік_мишкою-НЧ_Трансформатори-green.svg )](https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/Плата_ПЧ/vef_transformer.png)
 
 
 ### VEF 202 mod by Al Spudnik
@@ -29,7 +29,7 @@
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate04.jpg" width="400">
 
-Обмотки трансформаторів збільшені.
+Обмотки НЧ трансформаторів збільшені.
 - Тр.1:
 - 1-2 = 1570 витків
 - 3-4 = 462 витка
@@ -50,7 +50,12 @@
 
 Покрокове складання:
 
-[![Фото_01](https://img.shields.io/badge/Фото_01-orange.svg )](https://photos.app.goo.gl/Qsyrgdiz5srEuc9z5)
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair01.jpg" width="400">
+
+
+
+
+
 [![Фото_02](https://img.shields.io/badge/Фото_02-orange.svg )](https://photos.app.goo.gl/BiwBtk2LWMFu1j3d8)
 [![Фото_03](https://img.shields.io/badge/Фото_03-orange.svg )](https://photos.app.goo.gl/8HEDBvSvjd3StXME8)
 [![Фото_04](https://img.shields.io/badge/Фото_04-orange.svg )](https://photos.app.goo.gl/XQyDcrhQZX6n9Rkq8)
