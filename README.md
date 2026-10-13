@@ -52,12 +52,13 @@
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair01.jpg" width="400">
 
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair02.jpg" width="400">
+
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair0.jpg" width="400">
 
 
 
 
-[![Фото_02](https://img.shields.io/badge/Фото_02-orange.svg )](https://photos.app.goo.gl/BiwBtk2LWMFu1j3d8)
-[![Фото_03](https://img.shields.io/badge/Фото_03-orange.svg )](https://photos.app.goo.gl/8HEDBvSvjd3StXME8)
 [![Фото_04](https://img.shields.io/badge/Фото_04-orange.svg )](https://photos.app.goo.gl/XQyDcrhQZX6n9Rkq8)
 [![Фото_05](https://img.shields.io/badge/Фото_05-orange.svg )](https://photos.app.goo.gl/BHtVywNG1vEjoxku8)
 [![Фото_06](https://img.shields.io/badge/Фото_06-orange.svg )](https://photos.app.goo.gl/dbPZVMjhA3gZBZEZ6)
