@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/IMG_20261002_144313254.jpg" width="200">
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/IMG_20261002_144313254.jpg" width="400">
 
 ### Оригінальні данні VEF 202:
 
