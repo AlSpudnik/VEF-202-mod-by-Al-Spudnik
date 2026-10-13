@@ -54,14 +54,13 @@
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair02.jpg" width="400">
 
-<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair0.jpg" width="400">
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair03.jpg" width="400">
 
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair04.jpg" width="400">
 
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair05.jpg" width="400">
 
-
-[![Фото_04](https://img.shields.io/badge/Фото_04-orange.svg )](https://photos.app.goo.gl/XQyDcrhQZX6n9Rkq8)
-[![Фото_05](https://img.shields.io/badge/Фото_05-orange.svg )](https://photos.app.goo.gl/BHtVywNG1vEjoxku8)
-[![Фото_06](https://img.shields.io/badge/Фото_06-orange.svg )](https://photos.app.goo.gl/dbPZVMjhA3gZBZEZ6)
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair06.jpg" width="400">
 
 - Ноніусний механізм:
 [![Фото_07](https://img.shields.io/badge/Фото_07-orange.svg )](https://photos.app.goo.gl/DHTExDxR6r9ZCoDA7)
