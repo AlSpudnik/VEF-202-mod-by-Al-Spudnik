@@ -78,6 +78,8 @@
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair10.jpg" width="400">
 
+- Зібраний в корпус:
+
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/IMG_20261002_144321573.jpg" width="400">
 
 <https://mrspudnik.blogspot.com>
