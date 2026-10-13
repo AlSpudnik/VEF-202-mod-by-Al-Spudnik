@@ -48,7 +48,7 @@
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/FM Board/MWboard.jpg" width="400">
 
-Покрокове складання:
+- Покрокове складання:
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair01.jpg" width="400">
 
@@ -63,9 +63,12 @@
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair06.jpg" width="400">
 
 - Ноніусний механізм:
-[![Фото_07](https://img.shields.io/badge/Фото_07-orange.svg )](https://photos.app.goo.gl/DHTExDxR6r9ZCoDA7)
-[![Фото_08](https://img.shields.io/badge/Фото_08-orange.svg )](https://photos.app.goo.gl/mVqMcmjk9g773mbN6)
-[![Фото_09](https://img.shields.io/badge/Фото_09-orange.svg )](https://photos.app.goo.gl/iMKKS7KNYM4rKzsA6)
+
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair07.jpg" width="400">
+
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair09.jpg" width="400">
+
+<img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair08.jpg" width="400">
 
 - Електронний вимикач освітлення шкали та живлення ЧМ (FM) плати:
 
