@@ -27,6 +27,7 @@
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%9F%D0%A7/plate04.jpg" width="400">
 
+Конденсатори:
 
 • Усе, що фільтрує колектор та живлення котушок на землю: Ставимо жовту кераміку «крапельки» класу X7R / Y5V (боротьба з ВЧ/УКХ збудженням транзисторів).
 
