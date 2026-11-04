@@ -90,7 +90,7 @@
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair08.jpg" width="400">
 
-- Електронний вимикач освітлення шкали та живлення ЧМ (FM) плати:
+- Електронний вимикач освітлення шкали та живлення ЧМ (FM) плати (магніт/датчик Хола):
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/electric_keys/repair11.jpg" width="400">
 
