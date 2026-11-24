@@ -87,6 +87,8 @@ Radial (радіальні) — це циліндричні барила, у я�
 - 4-5 = 400 витків
 - 6-7 = 128 витків
 
+---
+
 ЧМ (FM) плата:
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/FM Board/FMboard.jpg" width="400">
@@ -95,7 +97,9 @@ Radial (радіальні) — це циліндричні барила, у я�
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/FM Board/MWboard.jpg" width="400">
 
-- Покрокове складання:
+---
+
+Покрокове складання:
 
 <img src="https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/photo/repair01.jpg" width="400">
 
