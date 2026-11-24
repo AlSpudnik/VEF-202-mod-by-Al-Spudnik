@@ -12,6 +12,7 @@
 
 [![Трансформатори](https://img.shields.io/badge/Ctrl_+_клік_мишкою-НЧ_Трансформатори-green.svg )](https://raw.githubusercontent.com/AlSpudnik/VEF-202-mod-by-Al-Spudnik/main/Плата_ПЧ/vef_transformer.png)
 
+---
 
 ### VEF 202 mod by Al Spudnik
 
